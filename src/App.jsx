@@ -1,12 +1,10 @@
-function App(){
-  let message = "hello mundo";
-  return(
-  <div>
-<h1>{message}</h1>
-<button onClick={() > {menssage = "fui clicado"} } > message("ola fui mudado")mudar msg</button>
-  </div>
-
+function App() {
+  return (
+    <div>
+   <h1>Gerenciador de Tarefas</h1>
+    
+    </div>
   );
-
 }
+
 export default App;
