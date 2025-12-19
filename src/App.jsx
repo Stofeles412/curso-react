@@ -4,11 +4,13 @@ import './App.css';
 function App() {
   return (
     <div>
-   <h1 className="text-red-500">Gerenciador de Tarefas</h1>
-<tasks>
+   <h1 className="text-red-500 text-3xl">Gerenciador de Tarefas</h1>
+<Tasks>
 
-</tasks>
+</Tasks>
+<AddTasks>
 
+</AddTasks>
 
     </div>
   );
